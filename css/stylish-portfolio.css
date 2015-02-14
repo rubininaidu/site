@@ -28,7 +28,10 @@ body {
     font-size: 4.5em;
     font-weight: 700;
 }
-
+.text-muted{
+    color: #c3c3c3;
+    font-size: 1.25em;
+}
 /* Custom Button Styles */
 
 .btn-dark {
