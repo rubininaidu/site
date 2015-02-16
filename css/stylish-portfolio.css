@@ -234,10 +234,17 @@ a:hover{
     height: 500px;
 }
 
+.logoMain{
+    width:600px;
+}
 @media(max-width:768px) {
     .map {
         height: 75%;
     }
+    .logoMain{
+        width:200px;
+    }
+
 }
 
 /* Footer */
